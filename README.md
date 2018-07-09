@@ -1,2 +1,2 @@
 # MoviesWorld
-This is a Movies website on which i am currently working.
+Kindly download the MoviesWorld.zip file to your computer to view the website
